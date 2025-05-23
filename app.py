@@ -9,6 +9,7 @@ from backend.generate_viral_titles import generate_viral_titles     # take the v
 from backend.text_below_image  import process_selected_titles_and_images
 from backend.fetch_news_url import fetch_and_store_article
 from backend.image_download_from_news import download_from_url
+from time import sleep
 
 app = Flask(__name__)
 app.secret_key = 'shivam'
@@ -25,7 +26,8 @@ def fetch_news():
     print("Topic selected:", topic)
     # Here you can call your cnews API using the topic value
     fetch_and_save_news(topic=topic, file_name="static\\news_raw.json")
-    generate_viral_news()     # ranking virality
+    #generate_viral_news()     # ranking virality
+    sleep(1)
         
     return redirect(url_for('show_news'))
 
@@ -33,7 +35,8 @@ def fetch_news():
 @app.route('/upload-article', methods=['POST'])
 def upload_article():
     url_recv = request.form['news_url']
-    fetch_and_store_article(url=url_recv, json_path="static\\news_raw.json")
+    fetch_and_store_article(url=url_recv, json_path="static/news_raw.json")
+    sleep(1)
     return redirect(url_for('prompts'))  # You can create this new HTML page
 
 
@@ -42,7 +45,7 @@ def upload_article():
 def show_news():
     with open('static/news_raw.json', 'r', encoding='utf-8') as file:
         news_data = json.load(file)
-    
+    sleep(0.1)
     return render_template('news.html', news=news_data)
 
 # delete unwanted news
@@ -74,7 +77,7 @@ def delete_news():
 def prompts():
       
     image_prompts()
-    
+    sleep(0.5)
     image_final()    # generates images for the title in news_raw.json
     
     return redirect(url_for('show_images'))
