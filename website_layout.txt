@@ -1,0 +1,36 @@
+_pycache_
+backend
+    _pycache_
+    fetch_news_url.py                    # fetches news by url given in the website
+    fetchnews.py                         # fetches news by calling the gnews api
+    generate_viral_titles.py             # generates titles for printing in the image ( currently not using )
+    image_download_from_news.py          # download the image from the url given in news_raw.json
+    image_generation.py                  # generates images using the pollinations.ai requests 
+    prompt_for_image.py                  # generates prompts for image generation script using groq ai api
+    text_below_image.py                  # writes the title below every image to post on instagram
+    virality.py                          # scores the news on the basis of given prompts , on the scale of 0-10 to get viral ( cohere api)
+static
+    images  
+        image1.jpg                       # all the images generated from image_generation.py gets stored here
+    outputs                         
+        output1.jpg                      # all the final output gets saved here
+    arrow.jpg                            # company's logo
+    generated_prompts.json               # image generation prompt gets saved here
+    generated_titles.json                # titles generated stored here ( currently not used )
+    news_raw.json                        # fetchnews stores all the data in here ( gnews api )
+    selected_titles.json                 # titles finalized for printing on image here
+    Monstserrat-Bold.ttf                 # the font to be printed on image
+templates
+    about_us.html                        # about_us page  
+    choose_title.html                    # title gets choosen 
+    download.html                        # download page
+    images.html                          # images are being showed to finalize the right image
+    index.html                           # landing page
+    news.html                            # all the fetched news shown here
+venv
+app.py                                   # flask app
+main.py                                  # currently using waitress to host the website
+requirements.txt  
+tempCodeRunnerFile.py 
+
+currently using python 3.10.10 version in viral environment
