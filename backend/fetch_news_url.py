@@ -4,7 +4,7 @@ from newspaper import Article
 from datetime import datetime
 from urllib.parse import urlparse
 
-def fetch_and_store_article(url, json_path="static\\news_raw.json"):
+def fetch_and_store_article(url, json_path="static/news_raw.json"):
     try:
         # Step 1: Parse the article
         article = Article(url)

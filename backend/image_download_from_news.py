@@ -17,7 +17,7 @@ def download_and_resize_image(image_url, save_path, size=(1080, 1080)):
     except Exception as e:
         print(f"❌ Error processing {image_url}: {e}")
 
-def download_from_url(json_path="static\\news_raw.json", image_folder="static\\images"):
+def download_from_url(json_path="static/news_raw.json", image_folder="static/images"):
     # Ensure the image folder exists
     os.makedirs(image_folder, exist_ok=True)
 

@@ -16,7 +16,7 @@ def generate_and_download_image(prompt, seed=43, model="flux", filename="ai_imag
         response = requests.get(url, stream=True, timeout=15)
 
         if response.status_code == 200:
-            with open(f"static\\images\\{filename}", 'wb') as out_file:
+            with open(f"static/images/{filename}", 'wb') as out_file:
                 for chunk in response.iter_content(1024):
                     out_file.write(chunk)
             print(f"✅ Image downloaded successfully as '{filename}'")
@@ -27,7 +27,7 @@ def generate_and_download_image(prompt, seed=43, model="flux", filename="ai_imag
 
 # 🔧 Example usage:
 def image_final():
-    with open("static\\generated_prompts.json", "r", encoding="utf-8") as f:
+    with open("static/generated_prompts.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     for i in range(len(data)):

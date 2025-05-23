@@ -7,7 +7,7 @@ load_dotenv()
 
 def generate_viral_news():
     # Load JSON data
-    json_path = 'static\\news_raw.json'
+    json_path = 'static/news_raw.json'
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 

@@ -1,6 +1,30 @@
 {
-    "totalArticles": 107142,
+    "totalArticles": 107390,
     "articles": [
+        {
+            "title": "Harvard University row: Federal judge blocks Trump administration’s move to ban foreign student enrollment",
+            "description": "US News: A federal judge temporarily blocked the Trump administration's ban on Harvard University enrolling international students, following a lawsuit challen",
+            "content": "Legal battle\nImpact on thousands of students\nGovernment’s stance\nAcademic backlash\nWider implications\nA federal judge on Friday temporarily blocked the Trump administration’s ban preventing Harvard University from enrolling international students.US ... [4992 chars]",
+            "url": "https://timesofindia.indiatimes.com/world/us/harvard-university-row-federal-judge-blocks-trump-administrations-move-to-ban-foreign-student-enrollment/articleshow/121367634.cms",
+            "image": "https://static.toiimg.com/thumb/msid-121367682,width-1070,height-580,imgsize-31390,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-05-23T16:24:00Z",
+            "source": {
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com"
+            }
+        },
+        {
+            "title": "Harvard sues Trump administration for blocking it from enrolling international students",
+            "description": "In a complaint filed in Boston federal court, Harvard called the revocation a “blatant violation” of the US constitution’s first amendment and other federal laws.",
+            "content": "Harvard University has sued the Trump administration over Donald Trump’s decision to revoke the Ivy League school’s ability to enrol international students.\nAs per news agency Reuters, in a complaint filed in Boston federal court, Harvard called the ... [2303 chars]",
+            "url": "https://indianexpress.com/article/world/harvard-sues-trump-block-enroll-international-students-10024527/",
+            "image": "https://images.indianexpress.com/2025/05/Harvard-University.jpg",
+            "publishedAt": "2025-05-23T15:48:00Z",
+            "source": {
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com"
+            }
+        },
         {
             "title": "Harvard Sues Trump Administration For Barring Enrolment Of Foreign Students",
             "description": "Harvard University on Friday sued the US administration against its decision to revoke its eligibility to enrol international students, in an escalation of the fight between President Donald Trump and the prestigious university.",
@@ -11,8 +35,91 @@
             "source": {
                 "name": "NDTV",
                 "url": "https://www.ndtv.com"
-            },
-            "virality_score": 5
+            }
+        },
+        {
+            "title": "Harvard University sues Trump admin after foreign students' enrolment blocked",
+            "description": "Harvard University filed a complaint in Boston federal court, saying the revocation of the ability to enrol foreign students had an \"immediate and devastating effect\" on the varsity and over 7,000 visa holders.",
+            "content": "Harvard University on Friday filed a lawsuit against the Trump administration for President Donald Trump's decision in which he revoked the top institution's ability to enrol international students.\nCalling Trump's decision a \"blatant violation\" of t... [2485 chars]",
+            "url": "https://www.indiatoday.in/world/story/harvard-university-sues-trump-administration-enroll-foreign-students-revoked-2729552-2025-05-23",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/donald-trump-234648992-16x9_0.jpeg?VersionId=ZU.UpKQLAxSEVouQ0pfjCjZHZrfaoZnl",
+            "publishedAt": "2025-05-23T12:41:09Z",
+            "source": {
+                "name": "India Today",
+                "url": "https://www.indiatoday.in"
+            }
+        },
+        {
+            "title": "Shocking! DC shooting suspect Elias Rodriguez's father was invited to Trump's Congress speech",
+            "description": "US News: Eric Rodriguz, the father of Elias Rodriguez, who killed a young Israeli diplomat couple outside the Capital Jewish Museum, was invited to President D.",
+            "content": "Elias Rodriguez's father is an Iraq war veteran and was invited to Donald Trump's Congress speech in March.\nElias Rodriguesz's family\nEric Rodriguz, the father of Elias Rodriguez, who killed a young Israeli diplomat couple outside the Capital Jewish ... [1817 chars]",
+            "url": "https://timesofindia.indiatimes.com/world/us/shocking-dc-shooting-suspect-elias-rodriguezs-father-was-invited-to-trumps-congress-speech/articleshow/121363957.cms",
+            "image": "https://static.toiimg.com/thumb/msid-121363937,width-1070,height-580,imgsize-27866,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-05-23T12:24:00Z",
+            "source": {
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com"
+            }
+        },
+        {
+            "title": "‘What’s The Point If Russia Isn’t In The Room?’: Jaishankar On West’s Ukraine Diplomacy",
+            "description": "S Jaishankar questions Western peace efforts in Ukraine, urging direct dialogue with Russia. He highlights Europe's inconsistencies and emphasizes India's diplomatic stance.",
+            "content": "‘What’s The Point If Russia Isn’t In The Room?’: Jaishankar On West’s Ukraine Diplomacy\nCurated By :\nNews18.com Edited By: Karishma Jain\nLast Updated: May 23, 2025, 16:19 IST\nHighlighting the flaws in Western diplomacy, Jaishankar said peace talks wi... [4735 chars]",
+            "url": "https://www.news18.com/india/whats-the-point-if-russia-isnt-in-the-room-jaishankar-on-wests-ukraine-diplomacy-ws-l-9349646.html",
+            "image": "https://images.news18.com/ibnlive/uploads/2025/05/Jaishankar-interview-in-foreign-media-2025-05-7a01cfa7d3ce3e9155ea1f639467abb2-16x9.jpg",
+            "publishedAt": "2025-05-23T10:49:55Z",
+            "source": {
+                "name": "News18",
+                "url": "https://www.news18.com"
+            }
+        },
+        {
+            "title": "Bangladesh’s Yunus could quit over lack of reform progress, student leader says",
+            "description": "Nahid Islam, the head of the newly-formed National Citizen Party (NCP), which wants national elections held only after the completion of reforms, said Yunus was finding it difficult to work without the backing of political parties.",
+            "content": "Bangladesh’s de-facto prime minister has threatened to step down if political parties cannot agree on reforms that citizens await with growing impatience, a top student leader has said, deepening uncertainty in the wake of deadly protests last year.\n... [2722 chars]",
+            "url": "https://indianexpress.com/article/world/bangladesh-yunus-could-quit-reform-progress-student-leader-says-10023887/",
+            "image": "https://images.indianexpress.com/2025/05/Bangladesh-Yunus.jpg",
+            "publishedAt": "2025-05-23T10:15:00Z",
+            "source": {
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com"
+            }
+        },
+        {
+            "title": "How China reacted as Donald Trump blocked foreign students' enrollment at Harvard University",
+            "description": "The Chinese foreign ministry said that Beijing will protect the legitimate rights and interests of its overseas students and scholars. | World News",
+            "content": "China on Friday criticised Donald Trump's decision to block Harvard University from enrolling foreign students, many of whom come from Beijing, and termed it as \"politicisation\" of education. The Chinese foreign ministry said that the move will only ... [1912 chars]",
+            "url": "https://www.hindustantimes.com/world-news/how-china-reacted-as-donald-trump-blocked-foreign-students-enrollment-at-harvard-university-101747986499835.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/05/23/1600x900/FILES-COMBO-CHINA-US-DIPLOMACY-POLITICS-TRADE-ECONOMY-0_1747992724343_1747992742564.jpg",
+            "publishedAt": "2025-05-23T09:57:38Z",
+            "source": {
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com"
+            }
+        },
+        {
+            "title": "How a Brazilian content creator was stabbed over 10 times on a livestream days & survived",
+            "description": "A 22-year-old Brazilian influencer, Luna Ambrozevicius Abrahao, was reportedly stabbed during a 'live' broadcast by her boyfriend. The content creator could be seen dripping blood and screaming as her followers reached out to emergency services. This case comes just days after the horrific murder of a Colombian content creator, Valeria Marquez",
+            "content": "A 22-year-old Brazilian influencer, Luna Ambrozevicius Abrahao, was reportedly stabbed during a ’live’ broadcast by her boyfriend. The content creator could be seen dripping blood and screaming as her followers reached out to emergency services. This... [7140 chars]",
+            "url": "https://www.firstpost.com/explainers/brazilian-influencer-luna-ambrozevicius-abrahao-stabbed-livestream-13890955.html",
+            "image": "https://images.firstpost.com/uploads/2025/05/brazil-influencer-2025-05-30130d230c17f6cc7806a8f62621890d.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-05-23T08:36:52Z",
+            "source": {
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com"
+            }
+        },
+        {
+            "title": "Friend mourns loss of Israeli Embassy staff and his fiancee who were shot dead in US",
+            "description": "31-year-old Chicago man Elias Rodriguez is charged for allegedly killing Israeli Embassy staffers Yaron Lischinsky and his fiancee Sarah Milgrim. | Trending",
+            "content": "Yaron Lischinsky, the Israeli Embassy staff who was killed in the pro-Palestinian shooting outside a Jewish museum in Washington DC, was remembered in a heartbreaking tribute by a friend. The violence also claimed a second life, Sarah Milgrim - also ... [1772 chars]",
+            "url": "https://www.hindustantimes.com/trending/friend-mourns-loss-of-israeli-embassy-staff-and-his-fianc-who-were-shot-dead-in-us-101747988149337.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/05/23/1600x900/Israeli_Embassy_Yaron_Lischinsky_Sarah_Milgrim_1747988356014_1747988356375.png",
+            "publishedAt": "2025-05-23T08:31:30Z",
+            "source": {
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com"
+            }
         }
     ]
 }

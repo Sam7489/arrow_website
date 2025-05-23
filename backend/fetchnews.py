@@ -6,7 +6,7 @@ load_dotenv()
 
 # "breaking-news" "world" "nation" "business" "technology" "entertainment" "sports" "science" "health"
 
-def fetch_and_save_news(topic="breaking-news", file_name="data\\news_raw.json"):
+def fetch_and_save_news(topic="breaking-news", file_name="data/news_raw.json"):
     api_key = os.getenv("GNEWS_API_KEY")  # Replace with your actual GNews API key
     url = f"https://gnews.io/api/v4/top-headlines?topic={topic}&lang=en&country=in&token={api_key}"
 
@@ -23,5 +23,5 @@ def fetch_and_save_news(topic="breaking-news", file_name="data\\news_raw.json"):
 # Example usage:
 if __name__ == "__main__":
     
-    fetch_and_save_news("world", "static\\news_raw.json")
+    fetch_and_save_news("world", "static/news_raw.json")
     #fetch_and_save_news("politics", "politics_news.json")

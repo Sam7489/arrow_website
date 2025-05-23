@@ -7,7 +7,7 @@ load_dotenv()
 
 
 # Load the news data
-with open("static\\news_raw.json", "r", encoding="utf-8") as f:
+with open("static/news_raw.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Extract descriptions from news data
@@ -78,7 +78,7 @@ def generate_viral_titles():
         title_data = process_all_titles(descriptions)
 
         # Save output
-        with open("static\\generated_titles.json", "w", encoding="utf-8") as f:
+        with open("static/generated_titles.json", "w", encoding="utf-8") as f:
             json.dump(title_data, f, indent=4, ensure_ascii=False)
 
         print("\n✅ All titles saved in 'static/generated_titles.json'")
